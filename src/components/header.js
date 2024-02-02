@@ -12,7 +12,7 @@ const Header = () => {
         Travel<span>with TK</span> </Link>
 
     < div 
-        className={'nav__menu $ {show-menu ? "show-menu" : ""}'} 
+        className={`nav__menu ${showMenu ? "show-menu" : ""}`} 
         id= "nav-menu"
     >
         <ul className="nav__list">
@@ -28,7 +28,7 @@ const Header = () => {
         </ul>
       </div>
 
-      <div className="nav__toggle" onClick = {() => setShowMenu(showMenu) }>
+      <div className="nav__toggle" onClick = {() => setShowMenu(!showMenu) }>
         <i className="bx bx-menu"></i>
       </div>
     </nav>

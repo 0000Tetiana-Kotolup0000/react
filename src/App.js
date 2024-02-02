@@ -12,7 +12,8 @@ function App() {
      <Route path="/" element={<HomePage />} />
      <Route path="/about" element={<About />} />
      <Route path="/tour-package" element={<TourPackage/>} />
-     <Route path="/tour-package/:tourPackageId" element={<DetailPackage/>} />
+     <Route
+     path="/tour-package/:tourPackageId" element={<DetailPackage/>} />
    </Routes>
   </>
   );
