@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/0000Tetiana-Kotolup0000/react.git/static/css/main.8befc475.css",
-    "main.js": "/0000Tetiana-Kotolup0000/react.git/static/js/main.a3345b1a.js",
-    "index.html": "/0000Tetiana-Kotolup0000/react.git/index.html",
-    "main.8befc475.css.map": "/0000Tetiana-Kotolup0000/react.git/static/css/main.8befc475.css.map",
-    "main.a3345b1a.js.map": "/0000Tetiana-Kotolup0000/react.git/static/js/main.a3345b1a.js.map"
+    "main.css": "/react/static/css/main.8befc475.css",
+    "main.js": "/react/static/js/main.a3345b1a.js",
+    "index.html": "/react/index.html",
+    "main.8befc475.css.map": "/react/static/css/main.8befc475.css.map",
+    "main.a3345b1a.js.map": "/react/static/js/main.a3345b1a.js.map"
   },
   "entrypoints": [
     "static/css/main.8befc475.css",
